@@ -1,0 +1,15 @@
+D:\Тренировки в C++\asl\obj\Debug\net6.0\asl.csproj.AssemblyReference.cache
+D:\Тренировки в C++\asl\obj\Debug\net6.0\asl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тренировки в C++\asl\obj\Debug\net6.0\asl.AssemblyInfoInputs.cache
+D:\Тренировки в C++\asl\obj\Debug\net6.0\asl.AssemblyInfo.cs
+D:\Тренировки в C++\asl\obj\Debug\net6.0\asl.csproj.CoreCompileInputs.cache
+D:\Тренировки в C++\asl\bin\Debug\net6.0\asl.exe
+D:\Тренировки в C++\asl\bin\Debug\net6.0\asl.deps.json
+D:\Тренировки в C++\asl\bin\Debug\net6.0\asl.runtimeconfig.json
+D:\Тренировки в C++\asl\bin\Debug\net6.0\asl.dll
+D:\Тренировки в C++\asl\bin\Debug\net6.0\asl.pdb
+D:\Тренировки в C++\asl\obj\Debug\net6.0\asl.dll
+D:\Тренировки в C++\asl\obj\Debug\net6.0\refint\asl.dll
+D:\Тренировки в C++\asl\obj\Debug\net6.0\asl.pdb
+D:\Тренировки в C++\asl\obj\Debug\net6.0\asl.genruntimeconfig.cache
+D:\Тренировки в C++\asl\obj\Debug\net6.0\ref\asl.dll
