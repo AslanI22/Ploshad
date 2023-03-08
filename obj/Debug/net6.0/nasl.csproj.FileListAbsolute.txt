@@ -1,0 +1,15 @@
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\nasl.csproj.AssemblyReference.cache
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\nasl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\nasl.AssemblyInfoInputs.cache
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\nasl.AssemblyInfo.cs
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\nasl.csproj.CoreCompileInputs.cache
+D:\Тренировки в C++\nasl\bin\Debug\net6.0\nasl.exe
+D:\Тренировки в C++\nasl\bin\Debug\net6.0\nasl.deps.json
+D:\Тренировки в C++\nasl\bin\Debug\net6.0\nasl.runtimeconfig.json
+D:\Тренировки в C++\nasl\bin\Debug\net6.0\nasl.dll
+D:\Тренировки в C++\nasl\bin\Debug\net6.0\nasl.pdb
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\nasl.dll
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\refint\nasl.dll
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\nasl.pdb
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\nasl.genruntimeconfig.cache
+D:\Тренировки в C++\nasl\obj\Debug\net6.0\ref\nasl.dll
